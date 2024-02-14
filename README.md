@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carlos I. Zepeda</h1>
-<h3 align="center">A passionate C++ and Python developer from Guatemala</h3>
+<h3 align="center">I am an enthusiastic developer from Guatemala</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chahrlens" alt="chahrlens" /></a> </p>
 
 
 
-- 🌱 I’m currently learning **Rust Lang**, **React Native**
+- 🌱 I’m currently learning **Rust Lang**, **Dart & Flutter**
 
 - 📫 How to reach me **carlos.ihernandez7@gmail.com**
 
